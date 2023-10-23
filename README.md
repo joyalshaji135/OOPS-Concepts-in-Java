@@ -16,7 +16,15 @@
                 1
             </td>
             <td>
-                Class And Objects
+                Structure of Java Program
+            </td>
+        </tr>
+         <tr>
+            <td>
+                2
+            </td>
+            <td>
+                Class And Object
             </td>
         </tr>
 </table>
