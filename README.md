@@ -59,4 +59,29 @@
                 Copy Constructor in Java
             </td>
         </tr>
+        <tr>
+            <td>
+                7
+            </td>
+            <td>
+                Private Constructor in Java
+            </td>
+        </tr>
+        <tr>
+            <td>
+                8
+            </td>
+            <td>
+                Static Block in Java
+            </td>
+        </tr>
+        <tr>
+            <td>
+                6
+            </td>
+            <td>
+                Instance Block in Java
+            </td>
+        </tr>
+
 </table>
