@@ -1,4 +1,4 @@
-public class Static_Block {
+public class Static_Block_08 {
     int number;
     String name;
 
