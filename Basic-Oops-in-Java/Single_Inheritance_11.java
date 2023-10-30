@@ -55,3 +55,7 @@ class Employee extends Company {
         System.out.println("Employee Salary :"+Salary);
     }
 }
+
+// Private Method is not Access the outside of the Class
+
+// Protect Method is Access to Outside the Class
