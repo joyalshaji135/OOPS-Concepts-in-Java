@@ -77,11 +77,50 @@
         </tr>
         <tr>
             <td>
-                6
+                9
             </td>
             <td>
                 Instance Block in Java
             </td>
         </tr>
-
+        <tr>
+            <td>
+                10
+            </td>
+            <td>
+                Static Method And Block in Java
+            </td>
+        </tr>
+        <tr>
+            <td>
+                11
+            </td>
+            <td>
+                Single Inheritance in Java
+            </td>
+        </tr>
+        <tr>
+            <td>
+                12
+            </td>
+            <td>
+                Multilevel Inheritance in Java
+            </td>
+        </tr>
+        <tr>
+            <td>
+                13
+            </td>
+            <td>
+                Multiple Inheritance in Java
+            </td>
+        </tr>
+        <tr>
+            <td>
+                14
+            </td>
+            <td>
+                Hierarchical Inheritance in Java
+            </td>
+        </tr>
 </table>
