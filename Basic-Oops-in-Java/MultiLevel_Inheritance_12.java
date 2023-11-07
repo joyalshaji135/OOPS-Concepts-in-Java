@@ -59,7 +59,7 @@ class Last_Class extends Division
     }
 }
 
-public class Multiple_Inheritance_12 {
+public class MultiLevel_Inheritance_12 {
     public static void main(String[] args) {
         Last_Class l = new Last_Class();
         l.Display();
