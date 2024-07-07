@@ -1,6 +1,8 @@
 import java.awt.*;
 import java.awt.event.*;
 
+import Swing.Frame;
+
 public class KeyListenerExample extends Frame implements KeyListener {
 
     private Label lblInfo;

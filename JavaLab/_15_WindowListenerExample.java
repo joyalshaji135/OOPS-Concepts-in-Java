@@ -1,6 +1,8 @@
 import java.awt.*;
 import java.awt.event.*;
 
+import Swing.Frame;
+
 
 class MyWindowListener implements WindowListener {
     
